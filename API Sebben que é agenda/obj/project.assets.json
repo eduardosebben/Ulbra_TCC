@@ -5113,11 +5113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\Projeto TCC\\API Sebben que é agenda\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
+      "projectUniqueName": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\TCC Final\\Ulbra_TCC\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
       "projectName": "API Sebben que é agenda",
-      "projectPath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\Projeto TCC\\API Sebben que é agenda\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
+      "projectPath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\TCC Final\\Ulbra_TCC\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
       "packagesPath": "C:\\Users\\dudus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\Projeto TCC\\API Sebben que é agenda\\API Sebben que é agenda\\obj\\",
+      "outputPath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\TCC Final\\Ulbra_TCC\\API Sebben que é agenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

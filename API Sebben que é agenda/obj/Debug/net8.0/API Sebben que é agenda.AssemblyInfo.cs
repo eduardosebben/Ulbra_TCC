@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API Sebben que é agenda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1a5f1da68b6b5fd1c7984d922c8f431a3907a8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("API Sebben que é agenda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API Sebben que é agenda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvGYQOQop042TezLk3QJ8POMEaf5D5+HFevNKN6jTdhMjf6tcWfx3pqs3dmz+DOn/6dUeLwwv6jRll5WHKC8nA==",
+  "dgSpecHash": "RaxvxJHeee1eef/QR6pcQzv/b9Ghn3Bg1zNFSXpR1gLykxj5SF5K7HPbeiM10e3OwUki2X0+aXAeqbYhzjhfXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\Projeto TCC\\API Sebben que é agenda\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
+  "projectFilePath": "C:\\Users\\dudus\\Desktop\\Ulbra\\TCC\\TCC Final\\Ulbra_TCC\\API Sebben que é agenda\\API Sebben que é agenda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dudus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dudus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
